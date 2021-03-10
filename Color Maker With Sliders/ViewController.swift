@@ -9,6 +9,9 @@ import UIKit
 
 class ViewController: UIViewController {
     //Outlets
+    
+    
+    
     @IBOutlet weak var colorView: UIView!
     @IBOutlet weak var redControl: UISlider!
     @IBOutlet weak var greenControl: UISlider!
